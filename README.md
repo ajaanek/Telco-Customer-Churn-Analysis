@@ -1,4 +1,4 @@
-# Telco Custome Churn Analysis
+# Telco Customer Churn Analysis
 ## Introduction
 Customer churn poses a major challenge for subscription-based companies. Retaining existing customers is often more cost-effective than acquiring new ones, making churn prediction a valuable business strategy. This project leverages machine learning to identify customers likely to cancel their telecom service, and offers data-driven recommendations to reduce churn rates.
 
