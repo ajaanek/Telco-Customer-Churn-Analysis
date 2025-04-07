@@ -2,6 +2,11 @@
 ## Introduction
 Customer churn poses a major challenge for subscription-based companies. Retaining existing customers is often more cost-effective than acquiring new ones, making churn prediction a valuable business strategy. This project leverages machine learning to identify customers likely to cancel their telecom service, and offers data-driven recommendations to reduce churn rates.
 
+## How to Use This Repository
+[**Github Pages**](https://ajaanek.github.io/Telco-Customer-Churn-Analysis/): The Kaggle Notebook is available in the deployed Github Page
+[**Kaggle Notebook**](https://www.kaggle.com/code/ajaanekanagasabai/telco-customer-churn-analysis): The project’s complete data analysis, including SQL and Python code for data cleaning and transformation, is available in the Kaggle Notebook. The ipynb file is also available in the repository.
+The SQL queries and initial exploratory analysis is available in the SQL folder of the repository.
+
 ## Project Overview
 This project uses classification models to predict customer churn and uncover the key drivers behind attrition. The primary goal is not only to achieve strong predictive performance but also to understand what factors contribute to churn, allowing for actionable insights that can guide business decisions.
 
